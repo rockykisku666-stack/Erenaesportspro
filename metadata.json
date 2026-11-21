@@ -1,0 +1,6 @@
+{
+  "name": "erena Esports — Free Fire Pro Tournament Platform",
+  "description": "Official bio link and community hub for erena Esports, the Free Fire Pro Tournament Platform. Watch match highlights, join the gaming community, and enter live tournaments.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
